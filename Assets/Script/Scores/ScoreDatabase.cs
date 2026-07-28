@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
@@ -720,6 +720,47 @@ namespace YARG.Scores
             parameters.AddRange(BuildInstrumentParams(instruments));
 
             return FindWithQuery<PlayerScoreRecord>(query, parameters.ToArray());
+        }
+
+        #endregion
+
+        #region Date-filtered queries (for campaign trophy screen)
+
+        public List<GameRecord> QueryGameRecordsUpToDate(DateTime cutoffDate)
+        {
+            return Query<GameRecord>(
+                @"SELECT * FROM GameRecords
+                WHERE Date <= ?
+                ORDER BY Date DESC",
+                cutoffDate
+            );
+        }
+
+        public List<PlayerScoreRecord> QueryPlayerScoresUpToDate(Guid playerId, DateTime cutoffDate)
+        {
+            return Query<PlayerScoreRecord>(
+                @"SELECT ps.* FROM PlayerScores ps
+                INNER JOIN GameRecords gr ON ps.GameRecordId = gr.Id
+                WHERE ps.PlayerId = ?
+                    AND ps.IsReplay = 0
+                    AND gr.Date <= ?",
+                playerId,
+                cutoffDate
+            );
+        }
+
+        public GameRecord QueryBandSongHighScoreUpToDate(HashWrapper songChecksum, DateTime cutoffDate)
+        {
+            return FindWithQuery<GameRecord>(
+                @"SELECT * FROM GameRecords
+                WHERE SongChecksum = ?
+                    AND PlayedWithReplay = 0
+                    AND Date <= ?
+                ORDER BY BandScore DESC
+                LIMIT 1",
+                songChecksum.HashBytes,
+                cutoffDate
+            );
         }
 
         #endregion

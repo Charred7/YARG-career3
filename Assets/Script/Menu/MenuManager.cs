@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
@@ -18,6 +18,12 @@ namespace YARG.Menu
             ProfileInfo,
             History,
             Content,
+            Career,
+            CareerCareerModern,
+            CareerGig,
+            CareerGigModern,
+            CareerGigClassic,
+            CareerTrophy,
         }
 
         /// <summary>

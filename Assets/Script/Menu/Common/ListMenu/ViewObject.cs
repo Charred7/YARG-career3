@@ -39,56 +39,73 @@ namespace YARG.Menu.ListMenu
             ViewType = viewType;
 
             // Set background
-            _canvasGroup.alpha = 1f;
+            if (_canvasGroup != null)
+                _canvasGroup.alpha = 1f;
             SetBackground(selected, viewType.Background);
 
             // Set text
-            foreach(var i in _primaryText)
+            if (_primaryText != null)
             {
-                i.text = viewType.GetPrimaryText(selected);
+                foreach (var i in _primaryText)
+                {
+                    if (i != null)
+                        i.text = viewType.GetPrimaryText(selected);
+                }
             }
-            foreach(var i in _secondaryText)
+            if (_secondaryText != null)
             {
-                i.text = viewType.GetSecondaryText(selected);
+                foreach (var i in _secondaryText)
+                {
+                    if (i != null)
+                        i.text = viewType.GetSecondaryText(selected);
+                }
             }
 
-            _icon.sprite = viewType.GetIcon();
-            _icon.gameObject.SetActive(_icon.sprite != null);
+            if (_icon != null)
+            {
+                _icon.sprite = viewType.GetIcon();
+                _icon.gameObject.SetActive(_icon.sprite != null);
+            }
         }
 
         public virtual void Hide()
         {
             Showing = false;
-            _canvasGroup.alpha = 0f;
+            if (_canvasGroup != null)
+                _canvasGroup.alpha = 0f;
         }
 
         protected virtual void SetBackground(bool selected, BaseViewType.BackgroundType type)
         {
-            NormalBackground.SetActive(false);
-            SelectedBackground.SetActive(false);
-            CategoryBackground.SetActive(false);
+            if (NormalBackground != null) NormalBackground.SetActive(false);
+            if (SelectedBackground != null) SelectedBackground.SetActive(false);
+            if (CategoryBackground != null) CategoryBackground.SetActive(false);
 
             switch (type)
             {
                 case BaseViewType.BackgroundType.Normal:
                     if (selected)
                     {
-                        SelectedBackground.SetActive(true);
+                        if (SelectedBackground != null)
+                            SelectedBackground.SetActive(true);
                     }
                     else
                     {
-                        NormalBackground.SetActive(true);
+                        if (NormalBackground != null)
+                            NormalBackground.SetActive(true);
                     }
 
                     break;
                 case BaseViewType.BackgroundType.Category:
                     if (selected)
                     {
-                        SelectedBackground.SetActive(true);
+                        if (SelectedBackground != null)
+                            SelectedBackground.SetActive(true);
                     }
                     else
                     {
-                        CategoryBackground.SetActive(true);
+                        if (CategoryBackground != null)
+                            CategoryBackground.SetActive(true);
                     }
 
                     break;

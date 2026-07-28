@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17d4d95fc7b0d6b47993290b3eb31d78, type: 3}
+  m_Name: HypeIconSet
+  m_EditorClassIdentifier: Assembly-CSharp::YARG.Menu.Career.CoverFlow.HypeIconSet
+  icons:
+  - name: audio
+    sprite: {fileID: 21300000, guid: a4f0729953edf7a4b80713c8f28c22e1, type: 3}
+  - name: battery
+    sprite: {fileID: 21300000, guid: 52e819b668c6b3b4cad7d121b9c6a240, type: 3}
+  - name: broom
+    sprite: {fileID: 21300000, guid: 54795c3ad72291647a618f3e93a252f1, type: 3}
+  - name: chart_up
+    sprite: {fileID: 21300000, guid: b1a23c90a85502b44b5fd3737f4b92eb, type: 3}
+  - name: crown
+    sprite: {fileID: 21300000, guid: 62c288219d3abb844860bb516086d91a, type: 3}
+  - name: fire
+    sprite: {fileID: 21300000, guid: 6c64e572a9b90354ab72e2f1b0a26c4e, type: 3}
+  - name: flag
+    sprite: {fileID: 21300000, guid: 5ffff67b043830c47a0ad88bf141d0c0, type: 3}
+  - name: guitar
+    sprite: {fileID: 1095511443, guid: 66fae0a679753ea4a9110a183b8d2af9, type: 3}
+  - name: leaf
+    sprite: {fileID: 21300000, guid: 8b06aaa7d13477944a7ea318dacb0b35, type: 3}
+  - name: lightning
+    sprite: {fileID: 21300000, guid: 45811ca0325f1e74ab6f365a83a76893, type: 3}
+  - name: megaphone
+    sprite: {fileID: 21300000, guid: f9f43c253cdb76143ba9a54e59955b6d, type: 3}
+  - name: numbers
+    sprite: {fileID: 21300000, guid: eedd103a57ff7db43b98ed230a0dd117, type: 3}
+  - name: pin
+    sprite: {fileID: 21300000, guid: 85b27fdb19d250d4fbc7bd0d1534c6f6, type: 3}
+  - name: radio
+    sprite: {fileID: 21300000, guid: 741baa98efc64b2448c003297041516d, type: 3}
+  - name: rocket
+    sprite: {fileID: 21300000, guid: bd73e94cd31be7d4fa80ef43d01f3c43, type: 3}
+  - name: running
+    sprite: {fileID: 21300000, guid: fabb03e177330ee4ab733751c0bf97d9, type: 3}
+  - name: shield
+    sprite: {fileID: 21300000, guid: 4ffe742af81a5fa40a00f39aa545824b, type: 3}
+  - name: skateboard
+    sprite: {fileID: 21300000, guid: 019ca9b15d8eff540ad95f550ceaf889, type: 3}
+  - name: sprout
+    sprite: {fileID: 21300000, guid: 6bd3045e9dd20d243b7564d1c302916c, type: 3}
+  - name: star
+    sprite: {fileID: 21300000, guid: d63b8fbd1058d7940825e79cffea3371, type: 3}
+  - name: stopwatch
+    sprite: {fileID: 21300000, guid: 0465cb8c3ed2af04ba7b233872338a20, type: 3}
+  - name: sunglasses
+    sprite: {fileID: 21300000, guid: ebdc087a7dd0bff4d8e83a2b512d7e00, type: 3}
+  - name: ticket
+    sprite: {fileID: 21300000, guid: 95ddd011257ee02499affd16a6cc1780, type: 3}
+  - name: trophy
+    sprite: {fileID: 21300000, guid: 9566bdff981c4ac41896bd78c1fd99a3, type: 3}
+  - name: yoga
+    sprite: {fileID: 21300000, guid: 8db1d5355c94e4843b652b31dbadc5a1, type: 3}

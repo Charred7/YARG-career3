@@ -353,6 +353,30 @@ namespace YARG.Menu.Navigation
             UpdateHelpBar().Forget();
         }
 
+        
+        /// <summary>
+        /// Returns the scheme currently on top of the stack, or null if the stack is empty.
+        /// </summary>
+        public NavigationScheme PeekScheme()
+        {
+            return _schemeStack.Count > 0 ? _schemeStack.Peek() : null;
+        }
+
+        /// <summary>
+        /// Pops the top scheme only if it is the expected instance.
+        /// Returns true if a scheme was popped.
+        /// </summary>
+        public bool PopScheme(NavigationScheme expected)
+        {
+            if (_schemeStack.Count > 0 && ReferenceEquals(_schemeStack.Peek(), expected))
+            {
+                PopScheme();
+                return true;
+            }
+
+            return false;
+        }
+
         public void PopAllSchemes()
         {
             // Pop all one by one so we can call each callback (instead of clearing)

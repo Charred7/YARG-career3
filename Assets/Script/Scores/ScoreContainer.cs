@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -683,6 +683,46 @@ namespace YARG.Scores
                 YargLogger.LogException(e, $"Failed to load high score from database for player with ID {playerId}.");
                 return null;
         }
+        }
+
+        // Date-filtered queries (for campaign trophy screen)
+        public static List<GameRecord> GetGameRecordsUpToDate(DateTime cutoffDate)
+        {
+            try
+            {
+                return _db.QueryGameRecordsUpToDate(cutoffDate);
+            }
+            catch (Exception e)
+            {
+                YargLogger.LogException(e, "Failed to load date-filtered GameRecords.");
+            }
+            return null;
+        }
+
+        public static List<PlayerScoreRecord> GetScoresByPlayerIdUpToDate(Guid playerId, DateTime cutoffDate)
+        {
+            try
+            {
+                return _db.QueryPlayerScoresUpToDate(playerId, cutoffDate);
+            }
+            catch (Exception e)
+            {
+                YargLogger.LogException(e, "Failed to load date-filtered PlayerScoreRecords.");
+            }
+            return null;
+        }
+
+        public static GameRecord GetBandHighScoreUpToDate(HashWrapper songChecksum, DateTime cutoffDate)
+        {
+            try
+            {
+                return _db.QueryBandSongHighScoreUpToDate(songChecksum, cutoffDate);
+            }
+            catch (Exception e)
+            {
+                YargLogger.LogException(e, "Failed to load date-filtered band high score.");
+            }
+            return null;
         }
     }
 }

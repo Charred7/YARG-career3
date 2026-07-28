@@ -1,0 +1,693 @@
+{
+  "gigs": [
+    {
+      "name": "01. The Concrete Garage",
+      "songs": [
+        {
+          "hash": "9E9C9556BA710FDEC598D7EE9DF6413AA2BF4B24",
+          "title": "No Nations",
+          "artist": "Jets Overhead",
+          "source": "yarg",
+          "genre": "Alternative"
+        },
+        {
+          "hash": "69F660A6BDA34F99458A7AC42A5EEB7C2C636053",
+          "title": "Half Measures",
+          "artist": "Aaron Musslewhite",
+          "source": "yarg",
+          "genre": "R&B/Soul/Funk"
+        },
+        {
+          "hash": "26AED77F0BEBDFB019727D6A6F95ACDE6EF5E3BC",
+          "title": "They Call",
+          "artist": "Auris",
+          "source": "yarg",
+          "genre": "Heavy Metal"
+        }
+      ],
+      "encoreIndex": 2
+    },
+    {
+      "name": "02. Back Alley Block Party",
+      "songs": [
+        {
+          "hash": "B3E8F0DA935EBA3963E5E153FFFC5F36C665A88B",
+          "title": "Need 2",
+          "artist": "Pinegrove",
+          "source": "yarg",
+          "genre": "Folk"
+        },
+        {
+          "hash": "00392D1E6E65737723E47E4A31BB08E4B7CAF03F",
+          "title": "Seasons (feat. Shiki Miyoshino)",
+          "artist": "Alohaii",
+          "source": "yarg",
+          "genre": "Pop"
+        },
+        {
+          "hash": "FD57E5B742ABC10D3D3CADCD83C9001B1CAFCB82",
+          "title": "Numb the Mind",
+          "artist": "NyxTheShield",
+          "source": "yarg",
+          "genre": "Indie Rock"
+        }
+      ],
+      "encoreIndex": 2
+    },
+    {
+      "name": "03. The Rusty Anchor",
+      "songs": [
+        {
+          "hash": "63EA4B3A3255122D24BF59A5641CB9932193DB7A",
+          "title": "Guess I'll Never Know",
+          "artist": "TrackTribe",
+          "source": "yarg",
+          "genre": "Folk"
+        },
+        {
+          "hash": "DE649194B88D5F8DE89C402272E1EFF3443082D1",
+          "title": "Long in the Tooth",
+          "artist": "Flying Raccoon Suit",
+          "source": "yarg",
+          "genre": "Ska"
+        },
+        {
+          "hash": "B4DB1094C97319C3D1719FB5E788A3DFC3B06E96",
+          "title": "Song of November",
+          "artist": "Frantic Memories",
+          "source": "yarg",
+          "genre": "Indie Rock"
+        }
+      ],
+      "encoreIndex": 2
+    },
+    {
+      "name": "04. Subway Station Jam",
+      "songs": [
+        {
+          "hash": "86B7F9637871D85B515D5EC201E72EF1051725B7",
+          "title": "Cowboy Tanaka",
+          "artist": "Atomic Guava",
+          "source": "yarg",
+          "genre": "Progressive"
+        },
+        {
+          "hash": "A6929E6B409D99E9513E38B9649DD288BA7448E5",
+          "title": "Do",
+          "artist": "Garlagan",
+          "source": "yarg",
+          "genre": "Pop-Rock"
+        },
+        {
+          "hash": "6E5438E01F009F20BB1760EB1766509D12ACAC25",
+          "title": "Voidwalker",
+          "artist": "Inflicted",
+          "source": "yarg",
+          "genre": "Death/Black Metal"
+        },
+        {
+          "hash": "52C851738B94A7A5DF709847845CA67A2B21E0A7",
+          "title": "106",
+          "artist": "Frostbitt",
+          "source": "yarg",
+          "genre": "Industrial"
+        }
+      ],
+      "encoreIndex": 3
+    },
+    {
+      "name": "05. The Warehouse Rumble",
+      "songs": [
+        {
+          "hash": "8F4499B725EA51F9D161B4E3F4A66347C3507200",
+          "title": "Sweet Victory",
+          "artist": "Bob Kulick and David Glen Eisley",
+          "source": "yarg",
+          "genre": "Glam"
+        },
+        {
+          "hash": "BDFAA2F66E0B8EDA0AEA5945E8A0434A07AF7A3E",
+          "title": "Discipline",
+          "artist": "Nine Inch Nails",
+          "source": "yarg",
+          "genre": "Industrial"
+        },
+        {
+          "hash": "88E5C060F18300874F42356B269A7E3B868900E5",
+          "title": "Eleven",
+          "artist": "Last Dinosaurs",
+          "source": "yarg",
+          "genre": "Alternative"
+        },
+        {
+          "hash": "8988E80F1AA37FF5EC5E972429367B6226771470",
+          "title": "John, Take Me with You",
+          "artist": "JW Francis",
+          "source": "yarg",
+          "genre": "Indie Rock"
+        }
+      ],
+      "encoreIndex": 3
+    },
+    {
+      "name": "06. Midwest State Fair",
+      "songs": [
+        {
+          "hash": "634DDD8A10E92E628FEC82E7E4A22FD6765A3D2F",
+          "title": "Fine",
+          "artist": "Lemon Demon",
+          "source": "yarg",
+          "genre": "Indie Rock"
+        },
+        {
+          "hash": "EDC31DD1F144396A29126815D2B4AF2853CF1B43",
+          "title": "About the Author",
+          "artist": "The Sterns",
+          "source": "yarg",
+          "genre": "Pop-Rock"
+        },
+        {
+          "hash": "6675DF6D0A3E14AF78D6A4D55612D3B69FD787BD",
+          "title": "Chocolate Rain (Sweet Like Chocolate Remix)",
+          "artist": "Tay Zonday",
+          "source": "yarg",
+          "genre": "Pop"
+        }
+      ],
+      "encoreIndex": 2
+    },
+    {
+      "name": "07. Windy City Ballroom",
+      "songs": [
+        {
+          "hash": "0094046F17CD7C73655AB31C5D174157E17C5F01",
+          "title": "Plastic Boogie",
+          "artist": "King Gizzard and the Lizard Wizard",
+          "source": "yarg",
+          "genre": "Southern Rock"
+        },
+        {
+          "hash": "28199E0E3F9845642C458CC253C0C71F3836855D",
+          "title": "Pizza Rolls",
+          "artist": "Bottom Bunk",
+          "source": "yarg",
+          "genre": "Emo"
+        },
+        {
+          "hash": "8D86825182F422799B936455EB648A82A9E8454D",
+          "title": "Circles",
+          "artist": "Thousand Thoughts",
+          "source": "yarg",
+          "genre": "Nu-Metal"
+        },
+        {
+          "hash": "FC05CF82FB15C5BE5BA773ECFC68D966C966AA93",
+          "title": "The Afterparty",
+          "artist": "Portraits of Tracy",
+          "source": "yarg",
+          "genre": "R&B/Soul/Funk"
+        }
+      ],
+      "encoreIndex": 3
+    },
+    {
+      "name": "08. Canyon Dust Festival",
+      "songs": [
+        {
+          "hash": "462C37CA24013E5CFE9CF7EE59410DE4E94B3D7B",
+          "title": "Beverly",
+          "artist": "Used to Be Valentines",
+          "source": "yarg",
+          "genre": "Pop-Punk"
+        },
+        {
+          "hash": "E65A6B65BF7F0C1B46E4801572CAADD52AF4C079",
+          "title": "Spirit",
+          "artist": "Practically People",
+          "source": "yarg",
+          "genre": "Indie Rock"
+        },
+        {
+          "hash": "E69288F799AEB8E79126D271CA8A28C7C88947CD",
+          "title": "Splinter",
+          "artist": "FIG",
+          "source": "yarg",
+          "genre": "R&B/Soul/Funk"
+        },
+        {
+          "hash": "5EC2554BE1B383E118AD696F1E0535188CD6F6F5",
+          "title": "Show Ya",
+          "artist": "Nana Asteria",
+          "source": "yarg",
+          "genre": "Pop"
+        },
+        {
+          "hash": "9B206AA92E0BA4E3568D3461984A8A594091CD90",
+          "title": "Buds",
+          "artist": "Troubled Minds",
+          "source": "yarg",
+          "genre": "Emo"
+        }
+      ],
+      "encoreIndex": 4
+    },
+    {
+      "name": "09. The Pier 17 Party",
+      "songs": [
+        {
+          "hash": "4878B263621247720957B46848F23379128CB7BD",
+          "title": "Runnin Man",
+          "artist": "Stone Deep",
+          "source": "yarg",
+          "genre": "Hip-Hop/Rap"
+        },
+        {
+          "hash": "188B7FD69BBA9E6CED79B094BC6AAFFB224FECCD",
+          "title": "The Game",
+          "artist": "RinRin",
+          "source": "yarg",
+          "genre": "Rock"
+        },
+        {
+          "hash": "1CF48BAFA736F9CA45BB54FDB96EBDE04CBDE10F",
+          "title": "Nomu",
+          "artist": "Good Kid",
+          "source": "yarg",
+          "genre": "Indie Rock"
+        },
+        {
+          "hash": "493FA655C314D274B687E0083A669CEA912B9F69",
+          "title": "Bedroom Community",
+          "artist": "Glass Beach",
+          "source": "yarg",
+          "genre": "Emo"
+        },
+        {
+          "hash": "E7000CCF1160C159536D738EDB882A44A8E1A0CE",
+          "title": "Positively Clark Street",
+          "artist": "Telethon",
+          "source": "yarg",
+          "genre": "Southern Rock"
+        }
+      ],
+      "encoreIndex": 4
+    },
+    {
+      "name": "10. The Big Apple Gala",
+      "songs": [
+        {
+          "hash": "F2D20E64B122ADCB8FD2BF7845DDF5510A48BDE2",
+          "title": "Poser",
+          "artist": "Luminism",
+          "source": "yarg",
+          "genre": "Math Rock"
+        },
+        {
+          "hash": "48C57BD9C1B96C406B3CAEA8AF1B556B4AA67BD5",
+          "title": "Is This What You Wanted",
+          "artist": "Scro",
+          "source": "yarg",
+          "genre": "Alternative"
+        },
+        {
+          "hash": "1DCC6B01BF216235CF9C2AA4042CD61D7C2FC848",
+          "title": "Participation Trophy Wife",
+          "artist": "Thanks! I Hate It",
+          "source": "yarg",
+          "genre": "Emo"
+        },
+        {
+          "hash": "ED87C1F686D8D6942048B5FA179AC9464FA8DE91",
+          "title": "Smile for Me",
+          "artist": "The Robot's Guide to Living",
+          "source": "yarg",
+          "genre": "Pop-Punk"
+        },
+        {
+          "hash": "103AC1F80616836442E331FF02CDBF4BEEC0A2EB",
+          "title": "Stowaway Ants",
+          "artist": "Alpha Boötis",
+          "source": "yarg",
+          "genre": "Melodic/Power Metal"
+        }
+      ],
+      "encoreIndex": 4
+    },
+    {
+      "name": "11. Great North Icecap",
+      "songs": [
+        {
+          "hash": "642723D03BD1A9D8325D885DD930964EE03BFB91",
+          "title": "The Masquerade",
+          "artist": "Cantervice",
+          "source": "yarg",
+          "genre": "Nu-Metal"
+        },
+        {
+          "hash": "531D290A24AD4BF99CCB84F3EEDDC36E1A838FB6",
+          "title": "322",
+          "artist": "Creo",
+          "source": "yarg",
+          "genre": "Electronic Rock"
+        },
+        {
+          "hash": "D2F3931B3935803FE232F03C505F8ADA96F12CCD",
+          "title": "Everybody Do the Flop",
+          "artist": "LilDeuceDeuce",
+          "source": "yarg",
+          "genre": "Novelty"
+        },
+        {
+          "hash": "786933623E47B517C4CBD9A5AB3A8E1D034B6BA8",
+          "title": "Avatar the Last Cakebender",
+          "artist": "Palette Knife",
+          "source": "yarg",
+          "genre": "Emo"
+        },
+        {
+          "hash": "0E048024F93AC845F2B1BBA472B41CBACB722B71",
+          "title": "Stress",
+          "artist": "Jim's Big Ego",
+          "source": "yarg",
+          "genre": "R&B/Soul/Funk"
+        }
+      ],
+      "encoreIndex": 4
+    },
+    {
+      "name": "12. The Underground Tube",
+      "songs": [
+        {
+          "hash": "CED73C13274C7172D1FA6B2259FAE035AF6ADF4D",
+          "title": "Overdrive",
+          "artist": "Vessel",
+          "source": "yarg",
+          "genre": "Hard Rock"
+        },
+        {
+          "hash": "409C10F40BA6573B029062D9B405D970346A7D37",
+          "title": "Human God",
+          "artist": "Hadson",
+          "source": "yarg",
+          "genre": "Hard Rock"
+        },
+        {
+          "hash": "6B7C13AB0A0DE5A68C3EA9CE7F7DC0144CE22C4B",
+          "title": "Empires",
+          "artist": "Electric Swing Circus",
+          "source": "yarg",
+          "genre": "Dance"
+        },
+        {
+          "hash": "9D7BC33A510C6B430DA9EA143A08590CB4F5C995",
+          "title": "It Kills Me",
+          "artist": "Roomie",
+          "source": "yarg",
+          "genre": "Pop"
+        },
+        {
+          "hash": "1D6C1DCD9786D65C6872185A8A4A50A1281100EE",
+          "title": "Better Off Worse (feat. Flower)",
+          "artist": "CircusP",
+          "source": "yarg",
+          "genre": "Electronic Rock"
+        }
+      ],
+      "encoreIndex": 4
+    },
+    {
+      "name": "13. Alpine Echo Pavilion",
+      "songs": [
+        {
+          "hash": "B722FA06C06E89FA6859E261D6E84AE1D8A7A83A",
+          "title": "No Remedy",
+          "artist": "Levia",
+          "source": "yarg",
+          "genre": "Electronic Rock"
+        },
+        {
+          "hash": "6D7948C79F81B9400B5854EF3E68F8EDB769A063",
+          "title": "Sadness (feat. Sapphire Noel)",
+          "artist": "Heartsick",
+          "source": "yarg",
+          "genre": "Nu-Metal"
+        },
+        {
+          "hash": "27D9ACF2FD36A772D663EF4B5D5F38B17670F969",
+          "title": "In My Head",
+          "artist": "Halfway to Michigan",
+          "source": "yarg",
+          "genre": "Alternative"
+        },
+        {
+          "hash": "EEBB8A500509AF709444E4BE9C02AA990CA1190B",
+          "title": "Avatara",
+          "artist": "Heteromorphic Zoo",
+          "source": "yarg",
+          "genre": "Death/Black Metal"
+        },
+        {
+          "hash": "88204A8D79E8FC3317934A8207641308C13CDF09",
+          "title": "Oxygen",
+          "artist": "Marta Vega",
+          "source": "yarg",
+          "genre": "Grunge"
+        }
+      ],
+      "encoreIndex": 4
+    },
+    {
+      "name": "14. City of Lights Rooftop",
+      "songs": [
+        {
+          "hash": "39FE697F1ED8A7F2D1AB41A8D7A2C6C0BDF26DD2",
+          "title": "Boom Slayer (feat. Scott Foster Harris)",
+          "artist": "Boom Kitty",
+          "source": "yarg",
+          "genre": "Industrial"
+        },
+        {
+          "hash": "B04B15D2A39B50D20B188C7DD9CDE2A050315779",
+          "title": "Exeter",
+          "artist": "Another One Down!",
+          "source": "yarg",
+          "genre": "Pop-Punk"
+        },
+        {
+          "hash": "D6AA37C501263468E77F4670A5EBFF28E37B6235",
+          "title": "Don't Spook the Owl",
+          "artist": "Kidd Judo",
+          "source": "yarg",
+          "genre": "Post-Hardcore"
+        },
+        {
+          "hash": "C03DAD52DF099D947862F100DDBF97D6EDE2CCF1",
+          "title": "Butterflies",
+          "artist": "Kingseeker",
+          "source": "yarg",
+          "genre": "Metalcore"
+        },
+        {
+          "hash": "CFB6BFEEA144DDC0966EB1A9C36B999592DF09E9",
+          "title": "I Don't Wanna Talk",
+          "artist": "Carter Vail",
+          "source": "yarg",
+          "genre": "Indie Rock"
+        },
+        {
+          "hash": "548AC4034DA0039A5A3215F776C53BD561CF461E",
+          "title": "All of a Sudden",
+          "artist": "Adamic",
+          "source": "yarg",
+          "genre": "Alternative"
+        }
+      ],
+      "encoreIndex": 5
+    },
+    {
+      "name": "15. Neon Shinjuku",
+      "songs": [
+        {
+          "hash": "8AB8073AEDE1C8AD90C50E9327FA4878CF715332",
+          "title": "I'm a Bug",
+          "artist": "Fries on the Side",
+          "source": "yarg",
+          "genre": "Pop"
+        },
+        {
+          "hash": "268BF9CC9427F6D62D21567BB83912F8EC9DE99D",
+          "title": "Oopsie Daisy",
+          "artist": "JubyPhonic",
+          "source": "yarg",
+          "genre": "Pop"
+        },
+        {
+          "hash": "A90C1A3B3AD824AED10F71573E48EFEF8DA2EF56",
+          "title": "I Wish That I Could Fall (feat. GUMI)",
+          "artist": "Jamie Paige",
+          "source": "yarg",
+          "genre": "Synthpop/Electropop"
+        },
+        {
+          "hash": "757BCD0F8E154BA59F9322818B565C160BA1B322",
+          "title": "Pixel Galaxy",
+          "artist": "Snail's House",
+          "source": "yarg",
+          "genre": "Chiptune"
+        },
+        {
+          "hash": "A52D5E2F00A191C1E5DE5550A6E8B260AD16B9BC",
+          "title": "Languish",
+          "artist": "Our Common Collapse",
+          "source": "yarg",
+          "genre": "Djent"
+        }
+      ],
+      "encoreIndex": 4
+    },
+    {
+      "name": "16. Southern Cross Stadium",
+      "songs": [
+        {
+          "hash": "955C2DA6273CB614EA3A0A0CCB4E01B05C375385",
+          "title": "Front Row Seats (To Watching Your World Burn)",
+          "artist": "FoundiT",
+          "source": "yarg",
+          "genre": "Punk"
+        },
+        {
+          "hash": "4C8757A83EC3868BB045E6893B12F4AE3AC9BD03",
+          "title": "Duvet Thief",
+          "artist": "The Covasettes",
+          "source": "yarg",
+          "genre": "Alternative"
+        },
+        {
+          "hash": "D1B5251FB29996C27A0FDE5B61E10D13F7A94E87",
+          "title": "Over Again",
+          "artist": "Alex Sandra",
+          "source": "yarg",
+          "genre": "Pop-Rock"
+        },
+        {
+          "hash": "A16839828E73CADA26D2BCCF9E8501222CF1B8D1",
+          "title": "Don't Look!",
+          "artist": "Prismia",
+          "source": "yarg",
+          "genre": "Alternative"
+        },
+        {
+          "hash": "0215F5683487C33A3F1B247EA00078EF0AD0184C",
+          "title": "To Let Go",
+          "artist": "NateWantsToBattle",
+          "source": "yarg",
+          "genre": "Alternative"
+        },
+        {
+          "hash": "4C1CEF8F5AEBF9E4AFE1DD2B0FA08804689DACA5",
+          "title": "Marlboro Mountain",
+          "artist": "Sweet Bike",
+          "source": "yarg",
+          "genre": "Emo"
+        }
+      ],
+      "encoreIndex": 5
+    },
+    {
+      "name": "17. The Orbital Broadcast",
+      "songs": [
+        {
+          "hash": "44835ABF794712AA512AA5934E142B0B69384FA4",
+          "title": "Time",
+          "artist": "Vandalheart",
+          "source": "yarg",
+          "genre": "Metalcore"
+        },
+        {
+          "hash": "3150E6D897D679A2BC713A1F799CDEA5FE0A165B",
+          "title": "Join the Club",
+          "artist": "Tilly Louise",
+          "source": "yarg",
+          "genre": "Indie Rock"
+        },
+        {
+          "hash": "AFA52DDA0627E83F5C4E68138D2CC3D8918BDD3F",
+          "title": "Dreamweaver",
+          "artist": "Glass Guillotine",
+          "source": "yarg",
+          "genre": "Death/Black Metal"
+        },
+        {
+          "hash": "47335DA19DF08DD925C815CEABD99DA62970C2BB",
+          "title": "Choked Up",
+          "artist": "See You at Rogers",
+          "source": "yarg",
+          "genre": "Pop-Punk"
+        },
+        {
+          "hash": "23E5F609F414EF72DFD7A5E91868ADCC51D7642C",
+          "title": "Igowallah",
+          "artist": "Daniel Thrasher",
+          "source": "yarg",
+          "genre": "Hip-Hop/Rap"
+        },
+        {
+          "hash": "8BCFBD61DD50D0F283A3801E28DE16B3EB066766",
+          "title": "Cruisin'",
+          "artist": "raphaelgoulart",
+          "source": "yarg",
+          "genre": "Electronic Rock"
+        },
+        {
+          "hash": "AC4EDC6887766803CA05824E6310100ADBC322A4",
+          "title": "A Visitant (feat. Victor Borba)",
+          "artist": "RO1",
+          "source": "yarg",
+          "genre": "Progressive"
+        }
+      ],
+      "encoreIndex": 6
+    },
+    {
+      "name": "18. The Eternal Pantheon",
+      "songs": [
+        {
+          "hash": "21EC0D9D78721B11E05F50134170FD2555844026",
+          "title": "Salt the Wound",
+          "artist": "Surefire",
+          "source": "yarg",
+          "genre": "Metalcore"
+        },
+        {
+          "hash": "8582624C05DB4AD75184477B67BF2357BF5AD11E",
+          "title": "Queen of the Night",
+          "artist": "The Vanished People",
+          "source": "yarg",
+          "genre": "Indie Rock"
+        },
+        {
+          "hash": "22562DF7EDF850606BF4CF6A198B0CA3485F8343",
+          "title": "Alibi",
+          "artist": "Vera Kay",
+          "source": "yarg",
+          "genre": "Alternative"
+        },
+        {
+          "hash": "0F49DD913FCEE544525749828B8B7235A48E54CC",
+          "title": "Oh, Krissy Baby!",
+          "artist": "WhyLucas",
+          "source": "yarg",
+          "genre": "Latin"
+        },
+        {
+          "hash": "B2DE40B7B699EF6DF98B58F4397BBB764E1883AA",
+          "title": "Al Gore Rhythm",
+          "artist": "Blight Town",
+          "source": "yarg",
+          "genre": "Post-Hardcore"
+        }
+      ],
+      "encoreIndex": 4
+    }
+  ]
+}

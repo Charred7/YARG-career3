@@ -91,6 +91,10 @@ namespace YARG.Menu.Main
         {
             MenuManager.Instance.PushMenu(MenuManager.Menu.Content);
         }
+        public void Career()
+        {
+            MenuManager.Instance.PushMenu(MenuManager.Menu.CareerCareerModern);
+        }
 
         public void Replays()
         {

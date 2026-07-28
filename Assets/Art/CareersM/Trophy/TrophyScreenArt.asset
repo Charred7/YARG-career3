@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ea5de9532aa7564cb58289e03cddf3a, type: 3}
+  m_Name: TrophyScreenArt
+  m_EditorClassIdentifier: Assembly-CSharp::YARG.Menu.Career.Trophy.TrophyScreenArt
+  Background: {fileID: -2104244439, guid: 66fae0a679753ea4a9110a183b8d2af9, type: 3}
+  SummaryPanel: {fileID: 21300000, guid: c6a4e9264a71d944fac1d0f18ce7b486, type: 3}
+  GoldenVinylEmblem: {fileID: 21300000, guid: 569356e5f260eca41ad9491e293d9997, type: 3}
+  EmblemHasBakedBannerText: 1
+  InstrumentPanel: {fileID: 21300000, guid: 0563f87ffa2799f438d307ac35494c08, type: 3}
+  HeaderBand: {fileID: 21300000, guid: 0b2fa4c452d5a1744b15f6508ccd715e, type: 3}
+  CardBottomGlow: {fileID: 21300000, guid: 39ba97e9d7f943a4c964119353a9f1ca, type: 3}
+  GuitarHeaderIcon: {fileID: 1760769726, guid: 66fae0a679753ea4a9110a183b8d2af9, type: 3}
+  BassHeaderIcon: {fileID: 21300000, guid: 4edb8e1e148efbd4a825ce192b79f324, type: 3}
+  DrumsHeaderIcon: {fileID: 21300000, guid: a5ff96455d8f9a94a88bef014a5f048f, type: 3}
+  VocalsHeaderIcon: {fileID: 21300000, guid: ea9c449852d63ae4d8259fa207bbabae, type: 3}
+  StarFilled: {fileID: 21300000, guid: 954e5b33e058c68418e8bfd40deea24e, type: 3}
+  StarEmpty: {fileID: 21300000, guid: 9ae7517d02171b74ab68e1d97c828252, type: 3}
+  GuitarWatermark: {fileID: 21300000, guid: 17776d9cc751d5f42809b635299752d0, type: 3}
+  BassWatermark: {fileID: 21300000, guid: 4edb8e1e148efbd4a825ce192b79f324, type: 3}
+  DrumsWatermark: {fileID: 21300000, guid: a5ff96455d8f9a94a88bef014a5f048f, type: 3}
+  VocalsWatermark: {fileID: 21300000, guid: ea9c449852d63ae4d8259fa207bbabae, type: 3}
